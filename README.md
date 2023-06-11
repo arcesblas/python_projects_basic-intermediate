@@ -1,2 +1,2 @@
-# freecodecamp_projects
-Repository for my freecodecamp projects.
+# Python_projects
+Repository for my python projects.
